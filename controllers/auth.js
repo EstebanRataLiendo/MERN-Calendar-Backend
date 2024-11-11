@@ -105,7 +105,7 @@ const revalidadToken = async(req, res = response) => {
         uid, name,
         token
     })
-}
+} 
 
 module.exports = {
     crearUsuario,
